@@ -1,0 +1,35 @@
+PeriodStart,PeriodEnd,Area,NumberOfCasesCommenced,NumberOfSuccessfulCases,CompaniesOrIndividualsSuccessfullyProsecuted,InfFilesCoveredBySuccessfulCases,TotalFines,TotalCosts
+2000-04-01,2001-03-31,food hygiene / safety,4,4,4,4,8500,1914.27
+2000-04-01,2001-03-31,animal welfare,0,0,0,0,0,0
+2001-04-01,2002-03-31,food hygiene / safety,13,12,11,12,12070,11435.76
+2001-04-01,2002-03-31,animal welfare,0,0,0,0,0,0
+2002-04-01,2003-03-31,food hygiene / safety,9,5,5,7,17000,22945.4
+2002-04-01,2003-03-31,animal welfare,5,5,6,6,13700,13422.1
+2003-04-01,2004-03-31,food hygiene / safety,29,21,20,27,66050,37974.15
+2003-04-01,2004-03-31,animal welfare,11,9,11,15,32810,17149.96
+2004-04-01,2005-03-31,food hygiene / safety,21,13,14,28,54300,30101.79
+2004-04-01,2005-03-31,animal welfare,11,8,12,10,14010,10320
+2005-04-01,2006-03-31,food hygiene / safety,19,17,19,32,73330,46286.87
+2005-04-01,2006-03-31,animal welfare,15,13,14,18,50450,26654.9
+2006-04-01,2007-03-31,food hygiene / safety,25,21,25,29,54250,50481.5
+2006-04-01,2007-03-31,animal welfare,14,10,10,11,31750,28293.83
+2007-04-01,2008-03-31,food hygiene / safety,20,17,19,39,102950,62977
+2007-04-01,2008-03-31,animal welfare / cattle id / abp,21,19,19,31,66670,60895.33
+2008-04-01,2009-03-31,food hygiene / safety,14,11,11,15,27015,18755.4
+2008-04-01,2009-03-31,animal welfare / cattle id / abp,5,3,3,3,10000,10862.95
+2009-04-01,2010-03-31,food hygiene / safety,22,18,17,22,51710,29085.21
+2009-04-01,2010-03-31,animal welfare / cattle id / abp,3,3,3,3,4530,4927.42
+2010-04-01,2011-03-31,food hygiene / safety,20,20,21,24,91585,46812.5
+2010-04-01,2011-03-31,animal welfare / cattle id / abp,6,4,4,4,20660,16794.08
+2011-04-01,2012-03-31,food hygiene / safety,16,13,15,21,66100,67391.38
+2011-04-01,2012-03-31,animal welfare / cattle id / abp,1,1,1,2,0,2000
+2012-04-01,2013-03-31,food hygiene / safety,9,6,9,7,20650,63197.19
+2012-04-01,2013-03-31,animal welfare / cattle id / abp,4,4,5,4,11500,11538.45
+2013-04-01,2014-03-31,food hygiene / safety,8,5,5,9,19285,19392.69
+2013-04-01,2014-03-31,animal welfare / cattle id / abp,1,0,0,0,0,0
+2014-04-01,2015-03-31,food hygiene / safety,12,10,11,14,25050,46385.14
+2014-04-01,2015-03-31,animal welfare / cattle id / abp,3,1,1,1,3500,3349
+2015-04-01,2016-03-31,food hygiene / safety,8,7,8,10,24300,43955.82
+2015-04-01,2016-03-31,animal welfare / cattle id / abp,0,0,0,0,0,0
+2016-04-01,2017-03-31,food hygiene / safety,7,7,7,7,32900,14839
+2016-04-01,2017-03-31,animal welfare / cattle id / abp,5,5,6,5,11140,16339.26
