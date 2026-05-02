@@ -14,6 +14,7 @@
 - [📖 About the Project](#-about-the-project)
 - [🗂 Project Structure](#-project-structure)
 - [Live Demo](#live-demo)
+- [📗Documentation](#documentation)
 - [📊 Visualisations](#-visualisations)
   - [Phase 1 — Core Charts](#phase-1--core-charts)
   - [Phase 2 — Advanced Charts](#phase-2--advanced-charts)
@@ -22,7 +23,7 @@
   - [Prerequisites](#prerequisites)
   - [Running Locally](#running-locally)
 - [📁 Data Sources](#-data-sources)
-- [🔭 Possible Future Improvements](#-future-improvements)
+- [🔭 Possible Future Improvements](#possible-future-improvements)
 - [👤 Author](#-author)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
@@ -88,6 +89,14 @@ data-vis-Midterm Project/
 ## Live Demo <a name="live-demo"></a>
 
 [Live Demo Link](https://ashmalzahra.github.io/data-visualization-dashboard/)
+
+---
+
+## Documentation <a name="documentation"></a>
+
+- 📄 [Development Progress Log](docs/development-progress-log.pdf)
+
+This document outlines the full development process, including design decisions, challenges, and implementation details across all project phases.
 
 ---
 
@@ -252,7 +261,7 @@ Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ri
 
 ---
 
-## 🔭 Possible Future Improvements <a name="future-improvements"></a>
+## 🔭 Possible Future Improvements <a name="possible-future-improvements"></a>
 
 - Responsive canvas sizing across different screen resolutions
 - Export individual charts as PNG or SVG
