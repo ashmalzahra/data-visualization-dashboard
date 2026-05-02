@@ -87,7 +87,7 @@ data-vis-Midterm Project/
 
 ## Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]()
+[Live Demo Link](https://ashmalzahra.github.io/data-visualization-dashboard/)
 
 ---
 
